@@ -1,1 +1,13 @@
-link github : https://github.com/Didik2584/task-5-pbi-btpns-Didik_kurniawan
+Based on the data that has been processed by the Data Analysts team, 
+to increase user engagement in the m-banking application is to increase
+the aspect of having users in the application. The suggestion given 
+by the data analysts team is to form a personalize user feature, 
+one of which is to allow users to upload images to be used as profile photos.
+The developer team is responsible for developing this feature, and you are 
+given the task of designing APIs for the upload and delete image features.
+Some of the conditions include:
+a. Users can add a profile picture
+b. The system can identify the user (log in / sign up)
+c. Only users who have logged in / signed up can delete / add profile photos
+d. Users can delete pictures that have been posted
+e. Different users cannot delete / change photos that have been created by other users
